@@ -14,6 +14,6 @@ Welcome to my personal website! This website is a showcase of my journey as an e
 - **Other Tools**: Arduino, Android Studio, MATLAB
 
 ## How to View:
-To view the website, you can visit it directly on [GitHub Pages](https://your-github-username.github.io/your-repo-name/).
+To view the website, you can visit it directly on [GitHub Pages](https://dewmikasenarathna.github.io/Don_Dew-s_Personal_Website/).
 
 Feel free to explore the code in this repository and reach out if you have any questions or ideas for collaboration!
